@@ -22,8 +22,9 @@ dGridTopk-FCPM实验数据集<br>
   100万实例：[instance_100W.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Synthetic%20Data%20Sets/ins/instance_100W.data) <br>
 
 * **时间与clumpy关系的数据集**<br>
-  clumpy=5：clumpy_5.data<br>
-  clumpy=10：clumpy_10.data<br>
-  clumpy=15：clumpy_15.data<br>
-  clumpy=20：clumpy_20.data<br>
-  clumpy=25：clumpy_25.data<br>
+  clumpy=5：[clumpy_5.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Synthetic%20Data%20Sets/clumpy/clumpy_5.data) <br>
+  clumpy=10：[clumpy_10.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Synthetic%20Data%20Sets/clumpy/clumpy_10.data) <br>
+  clumpy=15：[clumpy_15.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Synthetic%20Data%20Sets/clumpy/clumpy_15.data) <br>
+  clumpy=20：[clumpy_20.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Synthetic%20Data%20Sets/clumpy/clumpy_20.data) <br>
+  clumpy=25：[clumpy_25.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Synthetic%20Data%20Sets/clumpy/clumpy_25.data) <br>
+<br>
