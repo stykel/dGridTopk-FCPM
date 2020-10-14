@@ -11,7 +11,7 @@ dGridTopk-FCPM实验数据集<br>
 
 合成数据集<br>
 ------- 
-合成数据集位于 [Synthetic Data Sets](https://github.com/stykel/dGridTopk-FCPM/tree/main/Synthetic%20Data%20Sets) 文件夹中，包含用于测试 **时间与实例数关系的数据集**（位于 [ins](https://github.com/stykel/dGridTopk-FCPM/tree/main/Real%20Data%20Sets/ins) 文件夹中） 和用于测试 **时间与clumpy关系的数据集**（位于 [clumpy](https://github.com/stykel/dGridTopk-FCPM/tree/main/Real%20Data%20Sets/clumpy) 文件夹中） 。
+合成数据集位于 [Synthetic Data Sets](https://github.com/stykel/dGridTopk-FCPM/tree/main/Synthetic%20Data%20Sets) 文件夹中，包含用于测试 **时间与实例数关系的数据集**（位于 [ins](https://github.com/stykel/dGridTopk-FCPM/tree/main/Synthetic%20Data%20Sets/ins) 文件夹中） 和用于测试 **时间与clumpy关系的数据集**（位于 [clumpy](https://github.com/stykel/dGridTopk-FCPM/tree/main/Synthetic%20Data%20Sets/clumpy) 文件夹中） 。
 <br>
 
 * **时间与实例数关系的数据集**<br>
