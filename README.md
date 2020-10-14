@@ -15,11 +15,11 @@ dGridTopk-FCPM实验数据集<br>
 <br>
 
 * **时间与实例数关系的数据集**<br>
-  20万实例：[instance_20W.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Real%20Data%20Sets/ins/instance_20W.data) <br>
-  40万实例：[instance_40W.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Real%20Data%20Sets/ins/instance_40W.data) <br>
-  60万实例：[instance_60W.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Real%20Data%20Sets/ins/instance_60W.data) <br>
-  80万实例：[instance_80W.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Real%20Data%20Sets/ins/instance_80W.data) <br>
-  100万实例：[instance_100W.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Real%20Data%20Sets/ins/instance_100W.data) <br>
+  20万实例：[instance_20W.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Synthetic%20Data%20Sets/ins/instance_20W.data) <br>
+  40万实例：[instance_40W.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Synthetic%20Data%20Sets/ins/instance_40W.data) <br>
+  60万实例：[instance_60W.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Synthetic%20Data%20Sets/ins/instance_60W.data) <br>
+  80万实例：[instance_80W.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Synthetic%20Data%20Sets/ins/instance_80W.data) <br>
+  100万实例：[instance_100W.data](https://github.com/stykel/dGridTopk-FCPM/blob/main/Synthetic%20Data%20Sets/ins/instance_100W.data) <br>
 
 * **时间与clumpy关系的数据集**<br>
   clumpy=5：clumpy_5.data<br>
