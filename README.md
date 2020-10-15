@@ -6,7 +6,7 @@ dGridTopk-FCPM实验数据集<br>
 
 真实数据集<br>
 -------
-真实数据集位于 [Real Data Sets](https://github.com/stykel/dGridTopk-FCPM/tree/main/Real%20Data%20Sets) 文件夹中，包含 **昆明市POI数据集**（[2018_kunming_poi.csv](https://github.com/stykel/dGridTopk-FCPM/blob/main/Real%20Data%20Sets/2018_kunming_poi.csv)，特征数：23，实例个数298851 ） 和 **上海市POI数据集**（[2018_shanghai_poi.csv](https://github.com/stykel/dGridTopk-FCPM/blob/main/Real%20Data%20Sets/2018_shanghai_poi.csv)，特征数：23，实例个数218800 ） 。
+真实数据集位于 [Real Data Sets](https://github.com/stykel/dGridTopk-FCPM/tree/main/Real%20Data%20Sets) 文件夹中，包含 **昆明市POI数据集**（[2018_kunming_poi.csv](https://github.com/stykel/dGridTopk-FCPM/blob/main/Real%20Data%20Sets/2018_kunming_poi.csv)，特征数：23，实例个数：298851 ） 和 **上海市POI数据集**（[2018_shanghai_poi.csv](https://github.com/stykel/dGridTopk-FCPM/blob/main/Real%20Data%20Sets/2018_shanghai_poi.csv)，特征数：23，实例个数：218800 ） 。
 <br>
 
 两个真实数据集的数据特征均为：{ 实例特征，实例id，实例坐标（经纬度） }
